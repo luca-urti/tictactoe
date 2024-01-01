@@ -1,0 +1,31 @@
+
+z	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Å‹è†Ì1
+7
+java:S1220""Move this file to a named package.8Ç‹è†Ì1
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8¯è†Ì1
+W
+java:S2479":Remove the non-escaped \u0009 character from this literal.(Îñë8È˜–ˆÌ1
+G	java:S106/"+Replace this use of System.out by a logger.(„ı³8ñ¨ÇˆÌ1
+G	java:S1060"+Replace this use of System.out by a logger.(´ã‹ß8ñ¨ÇˆÌ1
+L	java:S1067"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ñ¨ÇˆÌ1
+G	java:S1068"+Replace this use of System.out by a logger.(æÕ™8ñ¨ÇˆÌ1
+L	java:S106>"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ñ¨ÇˆÌ1
+F	java:S106?"+Replace this use of System.out by a logger.(Ô´Ï/8ñ¨ÇˆÌ1
+G	java:S106K"+Replace this use of System.out by a logger.(‡ÇºÊ8å•ÇˆÌ1
+o
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ßì»›8ò¨ÇˆÌ1
+^
+java:S1126P"AReplace this if-then-else statement by a single return statement.(øüÿ8ò¨ÇˆÌ1
+:
+java:S2119y"Save and re-use this "Random".(¼İÅf8ó¨ÇˆÌ1
+L	java:S106~"+Replace this use of System.out by a logger.(ÚÇ½ÿøÿÿÿÿ8ô¨ÇˆÌ1
+M	java:S106œ"+Replace this use of System.out by a logger.(Ø‡Ç©ùÿÿÿÿ8ô¨ÇˆÌ1
+H	java:S106¤"+Replace this use of System.out by a logger.(ÒÛşÒ8ô¨ÇˆÌ1
+M	java:S106Ä"+Replace this use of System.out by a logger.(Ø‡Ç©ùÿÿÿÿ8ô¨ÇˆÌ1
+H	java:S106Ç"+Replace this use of System.out by a logger.(Î¦§•8ô¨ÇˆÌ1
+H	java:S106Í"+Replace this use of System.out by a logger.(ãñÇ8õ¨ÇˆÌ1
+M	java:S106Î"+Replace this use of System.out by a logger.(Êœ§Õûÿÿÿÿ8õ¨ÇˆÌ1
+H	java:S106Ï"+Replace this use of System.out by a logger.(şõè²8õ¨ÇˆÌ1
+M	java:S106Ğ"+Replace this use of System.out by a logger.(Êœ§Õûÿÿÿÿ8õ¨ÇˆÌ1
+G	java:S106Ñ"+Replace this use of System.out by a logger.(Ó®¡p8õ¨ÇˆÌ1
